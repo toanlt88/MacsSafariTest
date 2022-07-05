@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="IOSSafariTest" verbose="1" parallel="tests" thread-count="1">
+    <test name='IOS Safari IOS 1'>
+        <classes>
+            <class name='test.GridTest1' />
+        </classes>
+    </test>
+<!--    <test name='IOS Safari IOS 3'>-->
+<!--        <parameter name="udid" value="E3F0FBDD-3BDB-4ACA-903D-5A6A982D4BFC"/>-->
+<!--        <classes>-->
+<!--            <class name='test.GridTest1' />-->
+<!--        </classes>-->
+<!--    </test>-->
+<!--    <test name='IOS Safari IOS 4'>-->
+<!--        <parameter name="udid" value="856B040D-D3BA-4B3B-89D1-C6F90E95D222"/>-->
+<!--        <classes>-->
+<!--            <class name='test.GridTest1' />-->
+<!--        </classes>-->
+<!--    </test>-->
+<!--    <test name='IOS Safari IOS 5'>-->
+<!--                <parameter name="udid" value="DABCD1A1-ABE4-4FAD-B4CB-AAF39EFE1220"/>-->
+<!--        <classes>-->
+<!--            <class name='test.GridTest1' />-->
+<!--        </classes>-->
+<!--    </test>-->
+<!--    <test name='IOS Safari IOS 6'>-->
+<!--        <parameter name="udid" value="FEF30EE5-7B55-49FB-90D0-29C43979B50C"/>-->
+<!--        <classes>-->
+<!--            <class name='test.GridTest1' />-->
+<!--        </classes>-->
+<!--    </test>-->
+<!--    <test name='IOS Safari IOS 7'>-->
+<!--        <parameter name="udid" value="00E98013-FFE8-443C-9E58-E23BB37D2588"/>-->
+<!--        <classes>-->
+<!--            <class name='test.GridTest1' />-->
+<!--        </classes>-->
+<!--    </test>-->
+<!--    <test name='IOS Safari IOS 8'>-->
+<!--        <parameter name="udid" value="58FA552D-D2BD-47F3-B871-5B253E9787FA"/>-->
+<!--        <classes>-->
+<!--            <class name='test.GridTest1' />-->
+<!--        </classes>-->
+<!--    </test>-->
+<!--    <test name='IOS Safari IOS 8'>-->
+<!--        <parameter name="udid" value="DC699C11-66B3-47AD-B801-0F9C0CD2B31F"/>-->
+<!--        <classes>-->
+<!--            <class name='test.GridTest1' />-->
+<!--        </classes>-->
+<!--    </test>-->
+<!--    <test name='IOS Safari IOS 6'>-->
+<!--                <parameter name="udid" value="F17F398A-CAF7-4BBD-8647-0237F7201D57"/>-->
+<!--        <classes>-->
+<!--            <class name='test.GridTest1' />-->
+<!--        </classes>-->
+<!--    </test>-->
+<!--    <test name='IOS Safari IOS 7'>-->
+<!--                <parameter name="udid" value="C2124BC5-606A-45F7-BD3B-E85416690E9A"/>-->
+<!--        <classes>-->
+<!--            <class name='test.GridTest1' />-->
+<!--        </classes>-->
+<!--    </test>-->
+<!--    <test name='IOS Safari IOS 8'>-->
+<!--                <parameter name="udid" value="16978BEB-AD11-4F07-B57A-2F9FE3D7E6CC"/>-->
+<!--        <classes>-->
+<!--            <class name='test.GridTest1' />-->
+<!--        </classes>-->
+<!--    </test>-->
+<!--    <test name="IOS Safari IOS 9">-->
+<!--        <parameter name="deviceName" value="iPhone 11"/>-->
+<!--        <parameter name="udid" value="16978BEB-AD11-4F07-B57A-2F9FE3D7E6CC"/>-->
+<!--        <classes>-->
+<!--            <class name="test.GridTest1" />-->
+<!--        </classes>-->
+<!--    </test>-->
+<!--    <test name="IOS Safari IOS 10">-->
+<!--        <parameter name="deviceName" value="iPhone 11"/>-->
+<!--        <parameter name="udid" value="C2124BC5-606A-45F7-BD3B-E85416690E9A"/>-->
+<!--        <classes>-->
+<!--            <class name="test.GridTest1" />-->
+<!--        </classes>-->
+<!--    </test>-->
+<!--    <test name="IOS Safari IOS 11">-->
+<!--        <parameter name="deviceName" value="iPhone 11"/>-->
+<!--        <parameter name="udid" value="F17F398A-CAF7-4BBD-8647-0237F7201D57"/>-->
+<!--        <classes>-->
+<!--            <class name="test.GridTest1" />-->
+<!--        </classes>-->
+<!--    </test>-->
+<!--    <test name="IOS Safari IOS 12">-->
+<!--        <parameter name="deviceName" value="iPhone 11"/>-->
+<!--        <parameter name="udid" value="113D09EF-2022-494D-95DF-C4B30CEE8977"/>-->
+<!--        <classes>-->
+<!--            <class name="test.GridTest1" />-->
+<!--        </classes>-->
+<!--    </test>-->
+<!--    <test name="IOS Safari IOS 13">-->
+<!--        <parameter name="deviceName" value="iPhone 11"/>-->
+<!--        <parameter name="udid" value="C56F7806-6B2E-4FB4-BBA3-D40BFB2929A8"/>-->
+<!--        <classes>-->
+<!--            <class name="test.GridTest1" />-->
+<!--        </classes>-->
+<!--    </test>-->
+<!--    <test name="IOS Safari IOS 14">-->
+<!--        <parameter name="deviceName" value="iPhone 11"/>-->
+<!--        <parameter name="udid" value="C8AC4FD7-6A94-49CC-89F5-9A2633039652"/>-->
+<!--        <classes>-->
+<!--            <class name="test.GridTest1" />-->
+<!--        </classes>-->
+<!--    </test>-->
+<!--    <test name="IOS Safari IOS 15">-->
+<!--        <parameter name="deviceName" value="iPhone 11"/>-->
+<!--        <parameter name="udid" value="4645B274-4060-4215-B0CE-51CE758D2FDC"/>-->
+<!--        <classes>-->
+<!--            <class name="test.GridTest1" />-->
+<!--        </classes>-->
+<!--    </test>-->
+<!--    <test name="IOS Safari IOS 16">-->
+<!--        <parameter name="deviceName" value="iPhone 11"/>-->
+<!--        <parameter name="udid" value="957619EE-A904-44A6-9445-C53C2D2D7039"/>-->
+<!--        <classes>-->
+<!--            <class name="test.GridTest1" />-->
+<!--        </classes>-->
+<!--    </test>-->
+</suite>
